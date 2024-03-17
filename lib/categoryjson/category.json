@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Work",
+        "icon": "https://raw.githubusercontent.com/Youshida90/icons/main/TodoApp/suitcase.png"
+    },
+    {
+        "name": "Personal",
+        "icon": "https://raw.githubusercontent.com/Youshida90/icons/main/TodoApp/man.png"
+    },
+    {
+        "name": "Home",
+        "icon": "https://raw.githubusercontent.com/Youshida90/icons/main/TodoApp/house.png"
+    },
+    {
+        "name": "Shopping",
+        "icon": "https://raw.githubusercontent.com/Youshida90/icons/main/TodoApp/trolley.png"
+    },
+    {
+        "name": "Fitness",
+        "icon": "https://raw.githubusercontent.com/Youshida90/icons/main/TodoApp/sport.png"
+    },
+    {
+        "name": "Health",
+        "icon": "https://raw.githubusercontent.com/Youshida90/icons/main/TodoApp/healthcare.png"
+    },
+    {
+        "name": "Travel",
+        "icon": "https://raw.githubusercontent.com/Youshida90/icons/main/TodoApp/travel.png"
+    },
+    {
+        "name": "Education",
+        "icon": "https://raw.githubusercontent.com/Youshida90/icons/main/TodoApp/education.png"
+    },
+    {
+        "name": "Hobby",
+        "icon": "https://raw.githubusercontent.com/Youshida90/icons/main/TodoApp/mental-health.png"
+    },
+    {
+        "name": "Others",
+        "icon": "https://raw.githubusercontent.com/Youshida90/icons/main/TodoApp/more.png"
+    }
+]
